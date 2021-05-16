@@ -2,6 +2,8 @@
 
 A little iot app to remeber take the pill
 
+![7](image/20210515_220450.jpg)
+
 ## But why?
 
 Because I always forget! and it's a fun weekend project.
