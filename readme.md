@@ -1,6 +1,6 @@
 # PastillaRemember
 
-A little iot app to remeber take the pill
+A little iot app to remember take the pill
 
 ![7](image/20210515_220450.jpg)
 
